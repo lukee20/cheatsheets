@@ -1,3 +1,5 @@
-#### Cheatsheet Links
+### Cheatsheet Links
 
-[Github Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Regex](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
